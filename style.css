@@ -39,8 +39,8 @@ body main h1 {
 body main #yearInPut {
   text-align: center;
   width: 70px;
-  padding:10px;
-  margin-left: 120px;
+  padding:5px;
+  margin-left: 100px;
   border-radius: 5px;
   outline: 0;
   border: 1px solid black;
